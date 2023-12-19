@@ -39,7 +39,8 @@ If interest exists, the following enhancements are planned for a future version:
 This app demonstrates my capabilities in automating complex e-commerce operations, handling synchronization tasks across multiple platforms, and API integrations. It showcases problem-solving skills, attention to detail, and an understanding of real-world business needs in the e-commerce sector.
 
 ## License
-*Specify the license under which your project is released.*
+© [2023] [Hal Phillips]. All Rights Reserved.
+Unauthorized copying, modification, distribution, or use of this software is strictly prohibited.
 
 ---
 
